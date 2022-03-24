@@ -4,3 +4,7 @@ body {
 body h1 {
     box-align: center;
 }
+body p {
+    background-color: black;
+    color: white;
+}
